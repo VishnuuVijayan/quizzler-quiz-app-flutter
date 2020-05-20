@@ -54,8 +54,6 @@ class QuizBrain {
     }
   }
 
-  //TODO: Step 3 Part B - Use a print statement to check that isFinished is returning true when you are indeed at the end of the quiz and when a restart should happen.
-
   void reset() {
     _questionNumber = 0;
   }
